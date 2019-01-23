@@ -173,21 +173,76 @@
 
                         
 
-                        
+                        <header class="page-header section-header">
+
+                            <h2>Register Now</h2>
+
+                            <samp class="line text-center"></samp>
+
+                        </header>
 
                         
 
-                      
+                        <form id="#" class="" action="<?php echo base_url('register/campusambassadorpost'); ?>" method="post">
+
+                            <div class="col-md-6">
+
+                                <div class="form-group">
+
+                                    <label for="sel1">Name:</label>
+
+                                    <input class="form-control" type="text" name="name" placeholder="Enter name" value="" / required>
+
+                                </div>
+
+                            </div>
+
+                            <div class="col-md-6">
+
+                                <div class="form-group">
+
+                                    <label for="sel1">Mobile No:</label>
+
+                                    <input class="form-control" type="text" name="mobile" placeholder="Enter Mobile No" value="" required>
+
+                                </div>
+
+                            </div>
+
+                            <div class="col-md-6">
+
+                                <div class="form-group">
+
+                                    <label for="sel1">Email Id: </label>
+
+                                    <input class="form-control" type="mail" name="email" placeholder="Enter Email" value="" required>
+
+                                </div>
+
+                            </div>
+
+                            <div class="col-md-6">
+
+                                <div class="form-group">
+
+                                    <label for="sel1">College/Institution Name:</label>
+
+                                    <input class="form-control" type="text" name="college" placeholder="Enter College/Institution Name and Address" value="" required>
+
+                                </div>
+
+                            </div>
 
                             <div class="form-group text-center">
 
                                 <div class="col-sm-12">
 
-                                    <a href="<?php echo base_url('seminarworkshop'); ?>" type="submit" class="btn-theme btn">Register as Ambassador</a>
+                                    <button type="submit" class="btn-theme btn">Register</button>
 
                                 </div>
 
                             </div>
+							</form>
 
                      
 

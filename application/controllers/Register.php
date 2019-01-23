@@ -114,6 +114,24 @@ class Register extends Front_end {
 		
 	}
 	
+	public  function campusambassadorpost(){
+			$post=$this->input->post();
+			//echo '<pre>';print_r($post);
+			$this->load->library('email');
+			$this->email->set_newline("\r\n");
+			$this->email->set_mailtype("html");
+			$this->email->from($post['email']);
+			$this->email->to('support@psaaket.com');
+			$this->email->subject('campus ambassador registration');
+			$msg='Name :'.$post['name'].', Mobile : '.$post['mobile'].', Email id : '.$post['email'].', College :'.$post['college'];
+			//echo $msg;exit;
+			$this->email->message($msg);
+			$this->email->send();
+			$this->session->set_flashdata('success','Your Query is successfully sent. Our team will contact you soon.');
+			redirect('campusambassador');
+
+	}
+	
 	
 	
 	
