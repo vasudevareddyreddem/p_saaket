@@ -38,7 +38,7 @@
 					<h2>Seminar/Workshop Register</h2>
 					 
 				  </header>
-				 <form id="#" class="form-horizontal" action="<?php echo base_url('register/index'); ?>" method="post">
+				 <form id="#" class="form-horizontal" action="<?php echo base_url('register/post'); ?>" method="post">
 
                    
 				   <div class="form-group">
@@ -76,7 +76,7 @@
                      <div class="form-group">
                       <div class="col-sm-12">
 					  <label for="sel1">Qualification:</label>
-					  <input class="form-control" type="text" name="" placeholder="Enter your Qualification" value="" / required>
+					  <input class="form-control" type="text" name="qualification" placeholder="Enter your Qualification" value="" / required>
 					 </div>
                     </div>
 					<div class="form-group">
