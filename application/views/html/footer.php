@@ -69,7 +69,7 @@
                       <h3 class="footer-widget-header">Address</h3>
                       <span class="line text-center"></span>
 					   <ul>
-                         <li> <span class="h3" style="color:#ff9801;">PSAAKET</span> <br><span style="color:#fff;">Unit of Prachatech</span></li>
+                         <li> <span class="h3" style="color:#ff9801;">PSAAKET</span> <br><span style="color:#fff;"> The Training Division of Pracha Technologies Pvt Ltd.</span></li>
 					
 						 <li> <span style="color:#fff;">040 - 48541273</span></li>
 						 <li> <span style="color:#fff;">Support@prachatech.com</span></li>

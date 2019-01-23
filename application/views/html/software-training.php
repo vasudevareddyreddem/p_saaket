@@ -159,7 +159,14 @@
 <li class="col-md-4">BI</li>
 <li class="col-md-4">Hyperion</li>
 <li class="col-md-4">MYSQL DBA</li>
+
 <li class="col-md-4">ISTQB (Foundation and advanced levels)</li>
+<li class="col-md-4">Angular 2/4</li>
+<li class="col-md-4">Node Js</li>
+<li class="col-md-4">React Js</li>
+
+
+
 					</ol>
 
 

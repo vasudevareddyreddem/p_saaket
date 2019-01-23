@@ -39,17 +39,14 @@
             <div class="container">
               <div class="row ">
                <ul class="contact-detail2 col-md-6 pull-left mobile_only_text_center top_contact_details_font_style">
-					<li> <a href="mailto:kishore@sparkinfosys.com"><i class="fa fa-envelope-o"></i><span class="bold"> support@psaaket.com</span></a></li>
-					<li> <a><i class="fa fa-phone"></i><span itemprop="telephone" class="bold"> +91 8500 xxx xxx</span></a> </li>
+					<li> <a href="#"><i class="fa fa-envelope-o"></i><span class="bold"> support@psaaket.com</span></a></li>
+					<li> <a><i class="fa fa-phone"></i><span itemprop="telephone" class="bold"> 040-48541273</span></a> </li>
 				</ul>
                <div class="social-links col-md-6 pull-right">
                  <ul class="social-icons hidden-xs pull-right">
                    <li> <a href="#" target="_blank"><i class="fa fa-facebook"></i></a> </li>
                    <li> <a href="#" target="_blank"><i class="fa fa-twitter"></i></a> </li>
-                   <li> <a href="#" target="_blank"><i class="fa fa-google-plus"></i></a> </li>
                    <li> <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a> </li>
-                   <li> <a href="#" target="_blank"><i class="fa fa-youtube"></i></a> </li>
-                   <li> <a href="#" target="_blank"><i class="fa fa-rss"></i></a> </li>
                  </ul>
                </div>
               </div>
@@ -86,8 +83,8 @@
 					  <li><a href="#">Corporate Soft Skills Training</a></li>
                     </ul>
                   </li>
-				  <li> <a href="campus-ambassador.php">Ambassador</a></li>
-				  <li> <a href="partners.php">Partners</a></li>
+				  <li> <a href="campus-ambassador.php"> Campus Ambassador</a></li>
+				  <li> <a href="partners.php">Franchise</a></li>
 				 
                   <li> <a href="contact-us.php">Contact us</a></li>
                 
@@ -113,14 +110,14 @@
                     </ul>
                   </li>
 					
-                   <li class="<?php if(isset($c_url) && $c_url=='partners'){ echo "active"; }  ?>">  <a href="<?php echo base_url('partners'); ?>">Partners</a></li>
-				   <li class="<?php if(isset($c_url) && $c_url=='seminarworkshop'){ echo "active"; }  ?>"><a href="#" class="has-submenu">Register as</a>
+                   <li class="<?php if(isset($c_url) && $c_url=='partners'){ echo "active"; }  ?>">  <a href="<?php echo base_url('partners'); ?>">Franchise</a></li>
+				   <li class="<?php if(isset($c_url) && $c_url=='seminarworkshop'){ echo "active"; }  ?>"><a href="#" class="has-submenu">Register </a>
                     <ul class="sub-menu">
                       <li><a href="<?php echo base_url('seminarworkshop'); ?>">Seminar/Workshop </a></li>
                       
                     </ul>
                   </li>
-				  <li class="<?php if(isset($c_url) && $c_url=='campusambassador'){ echo "active"; }  ?>"> <a href="<?php echo base_url('campusambassador'); ?>">Ambassador</a></li>
+				  <li class="<?php if(isset($c_url) && $c_url=='campusambassador'){ echo "active"; }  ?>"> <a href="<?php echo base_url('campusambassador'); ?>"> Campus Ambassador</a></li>
 					<li class="<?php if($c_url=='mocktest'){ echo "active"; }?>">  <a href="<?php echo base_url('mocktest'); ?>">Mock Test</a></li>
                   <li class="<?php if($c_url=='contactus'){ echo "active"; }?>"> <a href="<?php echo base_url('contactus'); ?>">Contact us</a></li>
                     

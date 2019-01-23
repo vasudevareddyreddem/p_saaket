@@ -60,10 +60,10 @@
                       <div id="banner-text" class="owl-carousel owl-theme">
                         <div class="item wow fadeIn">
 						<h2 class="light wow fadeInDown">Welcome to</h2>
-                          <div class="bold">PSAAKET <span><br>Pracha Pvt.Ltd.</span></div>
+                          <div class="bold">PSAAKET <span><br> The Training Division of Pracha Technologies Pvt Ltd.</span></div>
                         </div>
 						<div class="item wow fadeIn">
-                          <div ><h1 class="bold">Best Campus Recruitment  <span>& Campus Recruitment Training, </span>Center</h1></div>
+                          <div ><h1 class="bold"> <span>Best Technology and Campus Recruitment Training Company </span></h1></div>
                         </div>
                      
                       </div>

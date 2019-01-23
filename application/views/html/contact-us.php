@@ -34,7 +34,7 @@
                       <h6><span class="h3" style="color:#ff9801;">PSAAKET</span>
 					 
 					  <br>
-					  <span style="color:#000;margin-top:5px;">Unit of Prachatech</span>
+					  <span style="color:#000;margin-top:5px;"> The Training Division of Pracha Technologies Pvt Ltd.</span>
 </h6>
                       <p><i class="fa fa-map-marker"></i>Plot No. 177, 1st Floor, Beside Sri Chaitanya High School, 
 Sardar Patel Nagar, Opp Nizampet X-Road, Hyderabad, 
@@ -42,7 +42,7 @@ Telangana - 500072.</p>
                     </li>
 					<li>
                       <h6>Talk Us</h6>
-                      <p><i class="fa fa-phone"></i><span class="bold blue">040 - 48541273</span> </p>
+                      <p><i class="fa fa-phone"></i><span class="bold blue">040-48541273</span> </p>
                     </li>
                     <li>
                       <h6>Mail Us</h6>

@@ -354,7 +354,7 @@
 			<div class="col-md-4 p-tb-20">
 				<div class="form  contact-form wow fadeInRight" data-wow-duration="1.5s" data-wow-offset="10"> 
 				  <header class="page-header section-header  p-tb-20  text-center ">
-                      <h1 class="h-bold">Get Partner With us <span> 
+                      <h1 class="h-bold"> Partner With us <span> 
 					</span></h1>
                       <span class="line text-center"></span>
 					  
